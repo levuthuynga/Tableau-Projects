@@ -1,5 +1,4 @@
 # Tableau-Projects
-Các sản phẩm Data visualization sử dụng công cụ Tableau
 
 ## [Store Sales Analysis](https://github.com/levuthuynga/Tableau-Projects/tree/main/Store%20Sales%20Analysis%20Project)
 
