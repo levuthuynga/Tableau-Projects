@@ -1,4 +1,4 @@
-# Tableau-Projects
+# Tableau-Project
 
 ## [Store Sales Analysis](https://github.com/levuthuynga/Tableau-Projects/tree/main/Store%20Sales%20Analysis%20Project)
 
